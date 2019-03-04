@@ -1,0 +1,599 @@
+[28-Oct-2018 19:57:39 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDcomuna.php on line 3
+[28-Oct-2018 19:57:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDcomuna.php on line 3
+[28-Oct-2018 19:57:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDcomuna.php on line 9
+[28-Oct-2018 19:57:39 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/easys83/public_html/android/androidBDcomuna.php on line 11
+[28-Oct-2018 19:57:39 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDcomuna.php on line 18
+[28-Oct-2018 20:01:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'easys83_web'@'66.7.198.100' to database 'easys83_web' in /home/easys83/public_html/android/androidBDcomuna.php on line 3
+[28-Oct-2018 20:01:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDcomuna.php on line 9
+[28-Oct-2018 20:01:21 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/easys83/public_html/android/androidBDcomuna.php on line 11
+[28-Oct-2018 20:01:21 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDcomuna.php on line 18
+[28-Oct-2018 20:04:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'easys83_web'@'66.7.198.100' to database 'easys83_web' in /home/easys83/public_html/android/androidBDcomuna.php on line 3
+[28-Oct-2018 20:04:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDcomuna.php on line 9
+[28-Oct-2018 20:04:05 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/easys83/public_html/android/androidBDcomuna.php on line 11
+[28-Oct-2018 20:04:05 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDcomuna.php on line 18
+[28-Oct-2018 20:07:20 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/easys83/public_html/android/androidBDcomuna.php on line 11
+[28-Oct-2018 20:11:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'easys83_web'@'server10.dns-grupohost.com' to database 'easys83_web' in /home/easys83/public_html/android/androidBDregion.php on line 3
+[28-Oct-2018 20:11:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDregion.php on line 9
+[28-Oct-2018 20:11:10 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/easys83/public_html/android/androidBDregion.php on line 11
+[28-Oct-2018 20:11:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDregion.php on line 18
+[28-Oct-2018 20:12:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'easys83_web'@'server10.dns-grupohost.com' to database 'easys83_web' in /home/easys83/public_html/android/androidBDregion.php on line 3
+[28-Oct-2018 20:12:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDregion.php on line 9
+[28-Oct-2018 20:12:53 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/easys83/public_html/android/androidBDregion.php on line 11
+[28-Oct-2018 20:12:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDregion.php on line 18
+[28-Oct-2018 20:16:57 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/easys83/public_html/android/androidBDregion.php on line 14
+[28-Oct-2018 20:17:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/easys83/public_html/android/androidBDregion.php on line 14
+[28-Oct-2018 20:20:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/easys83/public_html/android/androidBDregion.php on line 14
+[28-Oct-2018 20:21:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/easys83/public_html/android/androidBDregion.php on line 14
+[28-Oct-2018 22:16:58 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDnivel.php on line 3
+[28-Oct-2018 22:16:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDnivel.php on line 3
+[28-Oct-2018 22:16:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDnivel.php on line 9
+[28-Oct-2018 22:16:58 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/easys83/public_html/android/androidBDnivel.php on line 11
+[28-Oct-2018 22:16:58 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDnivel.php on line 18
+[28-Oct-2018 22:17:55 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDnivel.php on line 3
+[28-Oct-2018 22:17:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDnivel.php on line 3
+[28-Oct-2018 22:17:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDnivel.php on line 9
+[28-Oct-2018 22:17:55 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/easys83/public_html/android/androidBDnivel.php on line 11
+[28-Oct-2018 22:17:55 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDnivel.php on line 18
+[28-Oct-2018 22:20:23 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDnivel.php on line 3
+[28-Oct-2018 22:20:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDnivel.php on line 3
+[28-Oct-2018 22:20:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDnivel.php on line 9
+[28-Oct-2018 22:20:23 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/easys83/public_html/android/androidBDnivel.php on line 11
+[28-Oct-2018 22:20:23 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDnivel.php on line 18
+[28-Oct-2018 23:46:36 UTC] PHP Fatal error:  Class 'Services_JSON' not found in /home/easys83/public_html/android/androidBDregion.php on line 16
+[28-Oct-2018 23:48:32 UTC] PHP Fatal error:  Class 'Services_JSON' not found in /home/easys83/public_html/android/androidBDregion.php on line 16
+[28-Oct-2018 23:48:33 UTC] PHP Fatal error:  Class 'Services_JSON' not found in /home/easys83/public_html/android/androidBDregion.php on line 16
+[28-Oct-2018 23:49:53 UTC] PHP Warning:  require(:/JSON.php): failed to open stream: No such file or directory in /home/easys83/public_html/android/androidBDregion.php on line 2
+[28-Oct-2018 23:49:53 UTC] PHP Warning:  require(:/JSON.php): failed to open stream: No such file or directory in /home/easys83/public_html/android/androidBDregion.php on line 2
+[28-Oct-2018 23:49:53 UTC] PHP Fatal error:  require(): Failed opening required ':/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/easys83/public_html/android/androidBDregion.php on line 2
+[28-Oct-2018 23:50:36 UTC] PHP Warning:  require(:/JSON.php): failed to open stream: No such file or directory in /home/easys83/public_html/android/androidBDregion.php on line 2
+[28-Oct-2018 23:50:36 UTC] PHP Warning:  require(:/JSON.php): failed to open stream: No such file or directory in /home/easys83/public_html/android/androidBDregion.php on line 2
+[28-Oct-2018 23:50:36 UTC] PHP Fatal error:  require(): Failed opening required ':/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/easys83/public_html/android/androidBDregion.php on line 2
+[28-Oct-2018 23:50:37 UTC] PHP Warning:  require(:/JSON.php): failed to open stream: No such file or directory in /home/easys83/public_html/android/androidBDregion.php on line 2
+[28-Oct-2018 23:50:37 UTC] PHP Warning:  require(:/JSON.php): failed to open stream: No such file or directory in /home/easys83/public_html/android/androidBDregion.php on line 2
+[28-Oct-2018 23:50:37 UTC] PHP Fatal error:  require(): Failed opening required ':/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/easys83/public_html/android/androidBDregion.php on line 2
+[29-Oct-2018 00:18:14 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDsolicitarhora.php on line 7
+[29-Oct-2018 00:18:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDsolicitarhora.php on line 7
+[29-Oct-2018 00:18:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDsolicitarhora.php on line 11
+[29-Oct-2018 00:18:14 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDsolicitarhora.php on line 15
+[29-Oct-2018 00:18:29 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDlistadofarmacias.php on line 4
+[29-Oct-2018 00:18:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/easys83/public_html/android/androidBDlistadofarmacias.php on line 4
+[29-Oct-2018 00:18:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDlistadofarmacias.php on line 10
+[29-Oct-2018 00:18:29 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/easys83/public_html/android/androidBDlistadofarmacias.php on line 12
+[29-Oct-2018 00:18:29 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/easys83/public_html/android/androidBDlistadofarmacias.php on line 19
+[29-Oct-2018 00:19:22 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/easys83/public_html/android/androidBDcomuna.php on line 11
+[29-Oct-2018 04:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 04:08:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 15:50:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 11:50:48 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 11:50:48 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 15:52:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 11:52:00 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 11:52:00 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 16:19:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:19:20 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 12:19:20 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 16:19:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:20:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:20:48 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 12:20:48 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 16:24:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:24:59 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 12:24:59 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 16:25:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:29:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 12:29:27 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, object given in /home/easys83/public_html/android/androidBDcomuna.php on line 14
+[29-Oct-2018 16:30:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:30:42 America/New_York] PHP Notice:  Use of undefined constant utf8_encode - assumed 'utf8_encode' in /home/easys83/public_html/android/androidBDcomuna.php on line 17
+[29-Oct-2018 16:32:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:32:42 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 12:32:42 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 16:32:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:32:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:32:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:32:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:32:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:32:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:32:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:32:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:33:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:33:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:33:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:33:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:33:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:33:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:33:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:34:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:34:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:34:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:34:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:34:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:34:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:34:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:34:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:34:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:34:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:36:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:36:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/easys83/public_html/android/androidBDcomuna.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 13
+[29-Oct-2018 16:37:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:37:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/easys83/public_html/android/androidBDcomuna.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 11
+[29-Oct-2018 16:37:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:37:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/easys83/public_html/android/androidBDcomuna.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 11
+[29-Oct-2018 16:37:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:37:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/easys83/public_html/android/androidBDcomuna.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 11
+[29-Oct-2018 16:42:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:46:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:46:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/easys83/public_html/android/androidBDcomuna.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 11
+[29-Oct-2018 16:46:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:46:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:46:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:46:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:47:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:47:43 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 12:47:43 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 16:47:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:47:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:47:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:47:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:47:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:47:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:48:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:49:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:49:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/easys83/public_html/android/androidBDcomuna.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 9
+[29-Oct-2018 16:49:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:49:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/easys83/public_html/android/androidBDcomuna.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 9
+[29-Oct-2018 16:52:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:52:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/easys83/public_html/android/androidBDcomuna.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/easys83/public_html/android/androidBDcomuna.php on line 9
+[29-Oct-2018 16:52:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:52:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:54:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:58:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:58:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:59:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 12:59:15 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 12:59:15 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 17:05:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 13:05:27 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 13:05:27 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 17:20:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 13:20:39 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 13:20:39 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 20:35:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:35:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:35:33 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; conexion has a deprecated constructor in /home/easys83/public_html/conexionBD.php on line 3
+[29-Oct-2018 16:35:33 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/easys83/public_html/android/androidBDregion.php on line 20
+[29-Oct-2018 20:35:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:36:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:36:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:36:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Rut in /home/easys83/public_html/android/androidBDregistroprof.php on line 3
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Nombre in /home/easys83/public_html/android/androidBDregistroprof.php on line 4
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Apellido in /home/easys83/public_html/android/androidBDregistroprof.php on line 5
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Email in /home/easys83/public_html/android/androidBDregistroprof.php on line 6
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Movil in /home/easys83/public_html/android/androidBDregistroprof.php on line 7
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Telefono in /home/easys83/public_html/android/androidBDregistroprof.php on line 8
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Fecha in /home/easys83/public_html/android/androidBDregistroprof.php on line 9
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Comuna in /home/easys83/public_html/android/androidBDregistroprof.php on line 10
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Clave in /home/easys83/public_html/android/androidBDregistroprof.php on line 11
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Direccion in /home/easys83/public_html/android/androidBDregistroprof.php on line 12
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Departamento in /home/easys83/public_html/android/androidBDregistroprof.php on line 13
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Sexo in /home/easys83/public_html/android/androidBDregistroprof.php on line 14
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Estado in /home/easys83/public_html/android/androidBDregistroprof.php on line 15
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined index: Codigo in /home/easys83/public_html/android/androidBDregistroprof.php on line 16
+[29-Oct-2018 16:36:28 America/New_York] PHP Notice:  Undefined variable: datos in /home/easys83/public_html/android/androidBDregistroprof.php on line 25
+[29-Oct-2018 20:36:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:37:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:45:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:45:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:45:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:48:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:49:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 20:49:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Oct-2018 23:47:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[30-Oct-2018 00:07:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[30-Oct-2018 00:07:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/http.so' - libicudata.so.42: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
